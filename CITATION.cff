@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "CC-NSIEA"
+version: "1.0.0"
+date-released: 2026-06-26
+authors:
+  - family-names: Li
+    given-names: Qiang
+  - family-names: Zhang
+    given-names: Xiaohong
+  - family-names: Yan
+    given-names: Meng

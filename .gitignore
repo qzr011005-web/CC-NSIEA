@@ -1,0 +1,37 @@
+# Python and environment
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Data and generated experiment outputs
+data/UCI HAR Dataset/
+artifacts/
+runs/
+analysis/
+logs/
+outputs/
+results/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.csv
+*.jsonl
+
+# Secrets and local settings
+.env
+.env.*
+*.key
+*.pem
+*.token
+.DS_Store
